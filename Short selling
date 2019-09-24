@@ -1,0 +1,4 @@
+You borrow shares from a user and sell it at 100$. 
+When issuer wants it back you buy it back from the market and return it to you issuer.
+If the price has dropped, to 10$, you profit by 90$. But if the price increases to 200$, you
+lose 100$.
