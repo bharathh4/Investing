@@ -1,0 +1,21 @@
+Yield curve is a plot of bond maturity date vs yield of bonds of similar risk
+
+You can have 
+
+  normal curve: 
+    short term yield is low and long term yield is high.
+    In this scenario, economic expanision is expected. People expect demand for bonds to not rise in
+    the long term, thus parking their money in short term equities or stock and not in long term bonds.
+    When demands for long term bonds falls, the price of long term bonds fall, thus their yield will be higher. Why?
+    Because people can buy these for a low cost and reap huge returns when the bonds mature.
+    
+   flat curve:
+    short term yield and long term yield is the same
+    
+   inverted curve:
+    short term yield is high and long term yield is low
+    In this scenario, recession is expected. People expect demand for long term bonds to rise. So they start buying up 
+    bonds. So long term bonds become expensive. So when you buy these at a high cost, your yield at maturity is low. 
+    So instead of investing in the stock market people buy bonds. So stocks could fall or stay low like in a recession.
+    
+  
