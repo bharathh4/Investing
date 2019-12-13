@@ -1,0 +1,10 @@
+b is an odd. Say 4/1 or 2/1 etc. If you put in 1$ you could win 4$ or lose 1$
+p is probability of winning
+q is probability of losing
+k is kelly percentage. This is what you should wager on each subsequent bet
+
+b = 1.2
+p = 0.5
+q = 1 - p
+k = (b * p – q) / b
+print(k) # 0.08 or 8%
